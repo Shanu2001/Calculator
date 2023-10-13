@@ -1,0 +1,38 @@
+This calculator is a Python program that can perform basic arithmetic operations, as well as more advanced operations such as power, square root, exponential function, logarithmic function, and trigonometric functions. It is a simple and easy-to-use calculator that is suitable for a variety of tasks, such as student homework, scientific calculations, and financial planning.
+
+To use the calculator, simply run the code and enter the operation you want to perform and the two numbers you want to operate on (if applicable). The calculator will then print the result.
+
+For example, to calculate 2 + 3, you would run the code and enter the following:
+
+Enter an operation (+, -, *, /, pow, sqrt, exp, log, sin, cos, tan): +
+Enter the first number: 2
+Enter the second number: 3
+The calculator would then print the following:
+
+2 + 3 = 5
+To calculate the square root of 16, you would run the code and enter the following:
+
+Enter an operation (+, -, *, /, pow, sqrt, exp, log, sin, cos, tan): sqrt
+Enter the first number: 16
+The calculator would then print the following:
+
+sqrt(16) = 4
+You can use the calculator to perform any of the operations listed above.
+
+Here is a more detailed description of each of the operations that the calculator can perform:
+
+Basic arithmetic operations: The calculator can perform the four basic arithmetic operations: addition, subtraction, multiplication, and division.
+Power: The calculator can raise a number to a power.
+Square root: The calculator can calculate the square root of a number.
+Exponential function: The calculator can calculate the exponential function of a number and an exponent.
+Logarithmic function: The calculator can calculate the logarithmic function of a number and a base.
+Trigonometric functions: The calculator can calculate the sine, cosine, and tangent of an angle in degrees.
+The calculator is also able to handle parentheses and other expressions. For example, to calculate the expression (2 + 3) * 4, you would enter the following:
+
+Enter an operation (+, -, *, /, pow, sqrt, exp, log, sin, cos, tan): *
+Enter the first number: (2 + 3)
+Enter the second number: 4
+The calculator would then print the following:
+
+(2 + 3) * 4 = 20
+The calculator is a versatile and powerful tool that can be used for a variety of tasks. It is easy to use and can be customized to meet your specific needs.
